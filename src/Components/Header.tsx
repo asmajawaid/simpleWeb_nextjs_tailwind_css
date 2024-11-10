@@ -20,7 +20,7 @@ export default function Header() {
             />
             <span className="ml-3 text-xl text-cyan-50 ">Asman</span>
           </Link>
-          <nav className="md:mr-auto md:ml-4 md:py-1 md:text-sm md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
+          <nav className="md:mr-auto md:ml-4 md:py-1 md:text-sm md:pl-4 md:border-l md:border-gray-400	flex flex-wrap px-1 items-center text-base justify-center">
             <Link
               href="/"
               className="mr-5 hover:text-gray-300 font-semibold text-cyan-50"
