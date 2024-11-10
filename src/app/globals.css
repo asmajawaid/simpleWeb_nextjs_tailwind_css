@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ 
+.custom_image{
+  background-image: url("../../public/coverPic/kk.jpg");
+}
+.contact_bg{
+  background-image: url("../../public/coverPic/contact.jpg");
+}
